@@ -4,5 +4,5 @@ _Most of the models were developed for:_
 * Skillbox online university courses
 * My indie shooter
 
-![Tesla](/IMGpreview/teslaPNG.png)
+![Tesla](https://github.com/Shukret/Blender/blob/main/ImgPreview/TeslaPNG.png)
 Format: ![Alt Text](url)
